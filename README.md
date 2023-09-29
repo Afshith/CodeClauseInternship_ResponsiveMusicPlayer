@@ -1,0 +1,2 @@
+# CodeClauseInternship_ResponsiveMusicPlayer
+Responsive musicplayer for code clause
